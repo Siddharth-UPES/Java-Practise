@@ -60,6 +60,4 @@ To keep track of my progress, I will maintain a log of problems solved, includin
 
 **Happy Coding! 🚀 Let's conquer the coding world together!**
 
-**Happy Coding! 🚀**
-
 
