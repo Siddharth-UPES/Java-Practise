@@ -12,7 +12,6 @@ This repository serves as a comprehensive platform for honing my coding skills t
 - **Codeforces**: Competitive programming challenges to enhance speed and efficiency.
 - **CodingNinjas**: A platform for structured learning and practice.
 - **HackerRank**: Challenges focusing on algorithms, data structures, and more.
-- **AtCoder**: Japanese competitive programming contests for diverse problem-solving.
 - **And many more!**
 
 ---
