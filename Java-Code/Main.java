@@ -1,23 +1,22 @@
 import java.util.Scanner;
 
-class Airthmatic {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter First number:");
-        int first=input.nextInt();
-        System.out.println("Enter Second number");
-        int second=input.nextInt();
-
-        int add=first+second;
-        int sub=first-second;
-        int mul=first*second;
-        int div=first/second;
-        int mod=first%second;
-
-        System.out.println("Addition is :" + add);
-        System.out.println("Subtraction is :" + sub);
-        System.out.println("Multiplication is :" + mul);
-        System.out.println("Division is :" + div);
-        System.out.println("Moduluson is :" + mod);
+public class Main {
+    public static void main(String[] args)
+    {
+        Scanner s=new Scanner(System.in);
+        System.out.println("Showing star Pattern" );
+        System.out.print("Enter the number:");
+        int num=s.nextInt();
+        Pattern(num);
+        System.out.println("\n");
+        s.close();
+    }
+    public static void Pattern(int num){
+        for (int i=1;i<=num;i++){
+            for (int j=0;j<i;j++){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
     }
 }
