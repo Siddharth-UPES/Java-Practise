@@ -1,6 +1,6 @@
 # 📚 Coding Practice 
 
-Welcome to my # Coding Practice Repository! 👨‍💻  
+Welcome to my  Coding Practice Repository! 👨‍💻  
 This repository serves as a comprehensive platform for honing my coding skills through rigorous problem-solving exercises sourced from various competitive programming platforms. 
 
 ---
