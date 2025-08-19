@@ -33,6 +33,7 @@ This repository serves as a comprehensive platform for honing my coding skills t
 - **Sharpen Problem-Solving Skills**: Tackle a variety of problems to enhance logical thinking and algorithmic skills.
 - **Consistency in Daily Practice**: Commit to solving at least one problem daily to build a habit.
 - **Build a Strong Coding Portfolio**: Create a repository of solutions that showcases my coding abilities and growth over time.
+- - **Quickly Adaptibility**: 
 
 ---
 
