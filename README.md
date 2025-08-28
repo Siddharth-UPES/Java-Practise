@@ -4,7 +4,6 @@ Welcome to my Coding Practice Repository! 👨‍💻
 This repository serves as a comprehensive platform for honing my coding skills through rigorous problem-solving exercises sourced from various competitive programming platforms. 
 
 ---
-
 ## 🚀 Platforms Covered:
 
 - **LeetCode**: A vast collection of coding challenges to prepare for technical interview.
