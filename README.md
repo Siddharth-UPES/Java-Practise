@@ -9,7 +9,6 @@ This repository serves as a comprehensive platform for honing my coding skills t
 - **LeetCode**: A vast collection of coding challenges to prepare for technical interview.
 - **GeeksforGeeks**: A rich in resources for learning algorithms, data structures, and coding problems.
 - **Codeforces**: Competitive programming challenges to enhance speed and efficiency.
-- **CodingNinjas**: A platform for structured learning  and practice.
 - **HackerRank**: Challenges focusing on algorithms, data structures, and more.
 - **And many more!**
 
