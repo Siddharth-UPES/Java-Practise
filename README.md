@@ -11,7 +11,6 @@ This repository serves  as a comprehensive platform for honing my coding skills 
 - **Codeforces**: Competitive programming challenges to enhance speed and efficiency.
 - **HackerRank**: Challenges focusing on algorithms, data structures, and more.
 - **And many more!**
-
 ---
 
 ## 📝 How to Use This Repository:
